@@ -38,7 +38,7 @@ TUTORIAL >>> star-labs.gitbook.io/star-labs/software/megaeth/ru <<<
 - (Optional) Telegram bot token for logging
 
 ## 🚀 Installation
-1. Clone the repository:
+1. Clone the repository
 ```
 git clone https://github.com/0xStarLabs/StarLabs-MegaETH.git
 cd StarLabs-MegaETH
